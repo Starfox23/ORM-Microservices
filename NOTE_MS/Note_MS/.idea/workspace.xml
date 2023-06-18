@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Note_MS:war exploded" />
+      <artifact name="Note_MS:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,194 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50edb097-e01a-4504-bcf4-daa41d3f2256" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/ServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/controllers/NoteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/dataaccess/NoteDataAccessObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/interfaces/BaseNote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/interfaces/BaseUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/models/Note.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/models/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpdserver/services/NoteService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/EJBArtifact.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/ServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/controllers/NoteController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/dataaccess/NoteDataAccessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/dataaccess/UserDataAccessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/dataaccess/helpers/DatabaseConnectionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/interfaces/BaseNote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/interfaces/BaseUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/models/Note.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/models/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/NoteService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/NoteService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/UserService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-analysis-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-commons-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-tree-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-util-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/auto-value-annotations-1.7.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/checker-compat-qual-2.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/checker-qual-3.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/connection-artifact-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/error_prone_annotations-2.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/failureaccess-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-api-client-1.31.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-api-services-sqladmin-v1beta4-rev20210321-1.31.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-auth-library-credentials-0.25.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-auth-library-oauth2-http-0.25.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-1.39.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-apache-v2-1.38.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-gson-1.39.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-jackson2-1.38.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-oauth-client-1.31.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/grpc-context-1.27.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/guava-30.1-android.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/j2objc-annotations-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.14.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.14.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.14.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jdbc-socket-factory-core-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jffi-1.3.1-native.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jffi-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-a64asm-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-constants-0.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-enxio-0.32.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-ffi-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-posix-3.1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-unixsocket-0.38.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-x86asm-1.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jsr305-3.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/opencensus-api-0.28.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/opencensus-contrib-http-util-0.28.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/postgres-socket-factory-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/postgresql-42.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/ServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/controllers/NoteController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/dataaccess/NoteDataAccessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/interfaces/BaseNote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/interfaces/BaseUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/models/Note.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/models/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/services/NoteService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tpdserver/services/NoteService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Note_MS-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Note_MS-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/ServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/controllers/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/dataaccess/UserDataAccessObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/interfaces/BaseNote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/interfaces/BaseUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/models/Note.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/models/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/java/com/tpdserver/services/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/src/main/resources/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/EJBArtifact.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/ServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/controllers/NoteController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/dataaccess/NoteDataAccessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/dataaccess/UserDataAccessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/dataaccess/helpers/DatabaseConnectionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/interfaces/BaseNote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/interfaces/BaseUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/models/Note.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/models/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/NoteService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/NoteService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/UserService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/classes/com/tpdserver/services/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-analysis-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-commons-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-tree-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/asm-util-9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/auto-value-annotations-1.7.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/checker-compat-qual-2.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/checker-qual-3.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/connection-artifact-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/error_prone_annotations-2.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/failureaccess-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-api-client-1.31.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-api-services-sqladmin-v1beta4-rev20210321-1.31.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-auth-library-credentials-0.25.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-auth-library-oauth2-http-0.25.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-1.39.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-apache-v2-1.38.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-gson-1.39.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-http-client-jackson2-1.38.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/google-oauth-client-1.31.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/grpc-context-1.27.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/guava-30.1-android.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/j2objc-annotations-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.14.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.14.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.14.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jdbc-socket-factory-core-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jffi-1.3.1-native.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jffi-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-a64asm-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-constants-0.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-enxio-0.32.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-ffi-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-posix-3.1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-unixsocket-0.38.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jnr-x86asm-1.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/jsr305-3.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/opencensus-api-0.28.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/opencensus-contrib-http-util-0.28.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/postgres-socket-factory-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/TPD_Server-1.0-SNAPSHOT/WEB-INF/lib/postgresql-42.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/ServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/dataaccess/UserDataAccessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/interfaces/BaseNote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/interfaces/BaseUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/models/Note.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/models/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/services/UserService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/target/classes/com/tpdserver/services/UserService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687115264943</updated>
-      <workItem from="1687115266268" duration="734000" />
+      <workItem from="1687115266268" duration="1616000" />
     </task>
     <servers />
   </component>
