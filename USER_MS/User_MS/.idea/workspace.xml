@@ -11,10 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7844aa4f-8807-45c6-82ed-d34ee0a7bd8e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../NOTE_MS/Note_MS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOTE_MS/Note_MS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NOTE_MS/Note_MS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOTE_MS/Note_MS/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NOTE_MS/Note_MS/target/Note_MS-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOTE_MS/Note_MS/target/Note_MS-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687114845415</updated>
       <workItem from="1687114846928" duration="395000" />
-      <workItem from="1687115604532" duration="1231000" />
+      <workItem from="1687115604532" duration="1757000" />
     </task>
     <servers />
   </component>

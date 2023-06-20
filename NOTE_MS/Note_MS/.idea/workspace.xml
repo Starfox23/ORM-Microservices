@@ -11,10 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50edb097-e01a-4504-bcf4-daa41d3f2256" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Note_MS-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Note_MS-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../USER_MS/User_MS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../USER_MS/User_MS/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
@@ -173,7 +170,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687115264943</updated>
-      <workItem from="1687115266268" duration="1616000" />
+      <workItem from="1687115266268" duration="2097000" />
+      <workItem from="1687285015400" duration="658000" />
     </task>
     <servers />
   </component>
